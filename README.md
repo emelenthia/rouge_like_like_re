@@ -1,0 +1,2 @@
+# rouge_like_like_re
+bitbucketからの移転の練習
