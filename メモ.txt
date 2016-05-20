@@ -1,0 +1,47 @@
+1:A:ARMOR
+2:B:BAT
+3:C:CHIMERA
+4:D:DRAGON
+5:E:ELF
+6:F:FENRIR
+7:G:GUILTY REQUIEM
+8:H:HOBGOBLIN
+9:I:INVISIBLE MAN
+10:J:
+11:K:KING DEAMON
+12:L:
+13:M:MURDER
+14:N:
+15:O:ORC
+16:P:PEGASUS
+17:Q:
+18:R:RABIT
+19:S:SLIME
+20:T:TROLL
+21:U:UNICORN
+22:V:VESTA
+23:W:WOODMONSTER
+24:X:
+25:Y:
+26:Z:ZOMBIE
+
+
+2:98:bind scroll
+99:c:curing
+102:f:focussing
+g:grasping
+8:104:h:hatdluck
+9:105:i:invisible
+10:106:j:
+107:k:
+108:l:
+13:109:m:
+111:o:
+16:112:p:plasma blast scroll
+17:q
+18:r
+19:s:strong potion
+116:20:t:telepotation
+
+
+
